@@ -1,0 +1,11 @@
+﻿
+
+            EXECUTA UMA TAREFA PROGRAMADA EM UMA MACRO NO EXCEL 
+
+   Quantos dias seguidos você gostaria de executar a tarefa: 1
+   Qual o horario para executar a tarefa? (hh:mm): 12:03
+   Vou executar a tarefa por 1 dia(s). Dia 1: 02/05/23 às: 12 horas e 3 minutos
+   O arquivo EXCEL C:\Users\acmdo\Meu Drive\Python\PROGRAMAS\Guarda.xlsm foi aberto com sucesso.
+   A macro com o nome: MacroAcumula está iniciando.
+   A macro com o nome: MacroAcumula finalizou a execução.
+   Tarefa finalizada na data: 2/5/2023 às 12 horas 3 minutos 56 segundos

@@ -124,7 +124,7 @@ if __name__ == '__main__':          #Main Program
     minuto = int(hora_string.split(':')[1])
     hora_minuto_tarefa = hora*60 + minuto
 
-    agora = datetime.now() /* guarda o tempo inicial
+    agora = datetime.now() # guarda o tempo inicial
     hora_minuto_agora = agora.hour*60 + agora.minute
     
     if hora_minuto_agora < hora_minuto_tarefa:
